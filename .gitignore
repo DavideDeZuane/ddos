@@ -1,0 +1,11 @@
+dataset
+thesis/*.log
+thesis/*.aux
+thesis/*.toc
+thesis/*.lof
+thesis/*.lot
+thesis/*.idx
+thesis/*.bbl
+thesis/*.out
+thesis/*.bcf
+
